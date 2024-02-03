@@ -1,5 +1,6 @@
 
-![jov](https://github.com/JovianSanjaya/JovianSanjaya/assets/132749552/eab30e54-bfa4-45bd-b241-b46195d68c61)
+![jov-modified](https://github.com/JovianSanjaya/JovianSanjaya/assets/132749552/8ad496a4-7f00-456b-8f15-f32d686e3dc2)
+
 
 # 💫 About Me:
 Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I am currently studying Computer Engineering.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
