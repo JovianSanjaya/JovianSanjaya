@@ -6,7 +6,7 @@
 Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I am currently studying Computer Engineering.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jovian_s.p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovian-sanjaya-putra-0b198b267/) 
 
 
