@@ -19,10 +19,10 @@ Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JovianSanjaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianSanjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joviansanjaya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Jovian)
   
