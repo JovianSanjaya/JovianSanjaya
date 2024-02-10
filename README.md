@@ -1,5 +1,6 @@
-
-[![An image of @joviansanjaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joviansanjaya)](https://holopin.io/@joviansanjaya)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="500"/>
+</div>
 
 # 💫 About Me:
 Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I am currently studying Computer Engineering.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
@@ -18,13 +19,15 @@ Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JovianSanjaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianSanjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+#🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joviansanjaya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+#💰 You can help me by Donating
 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Jovian)
+  
+[![An image of @joviansanjaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joviansanjaya)](https://holopin.io/@joviansanjaya)
 
- ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Jovian) 
 
 
 
