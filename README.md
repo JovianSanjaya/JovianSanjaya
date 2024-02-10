@@ -1,6 +1,5 @@
 
-![jov-modified](https://github.com/JovianSanjaya/JovianSanjaya/assets/132749552/8ad496a4-7f00-456b-8f15-f32d686e3dc2)
-
+[![An image of @joviansanjaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joviansanjaya)](https://holopin.io/@joviansanjaya)
 
 # 💫 About Me:
 Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I am currently studying Computer Engineering.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
