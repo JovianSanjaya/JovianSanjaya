@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hello👋🏻<br>I am Jovian a polytechnic student at Singapore Polytechnic<br>I am currently studying Computer Engineering.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
+Hello👋🏻<br>I am Jovian , a student at National University Of Singapore<br>I am currently studying Computer Science.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
 
 
 # 🌐 Socials:
