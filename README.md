@@ -1,37 +1,58 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="450"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:378ADD&height=200&section=header&text=Jovian%20Sanjaya%20Putra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=NUS%20Computer%20Science%20Undergraduate&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
-# 💫 About Me:
-Hello👋🏻<br>I am Jovian , a student at National University Of Singapore<br>I am currently studying Computer Science.👨🏻‍💻<br> I have interest in programming (mainly mobile app development📱, web development💻, and Data Science📊). 
-
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jovian_s.p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovian-sanjaya-putra-0b198b267/) 
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JovianSanjaya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JovianSanjaya&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianSanjaya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
- 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JovianSanjaya&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-# 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Jovian)
-  
-[![An image of @joviansanjaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joviansanjaya)](https://holopin.io/@joviansanjaya)
+<div align="center">
 
 
 
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="25"/> About Me
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25"/> &nbsp;Currently pursuing B.Comp. Computer Science and Data Science & Analytics at NUS.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25"/> &nbsp;Deep-diving into Parallel Computing, Artificial Intelligence, and Computer Vision.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/> &nbsp;I love building things end-to-end, from training ML models on edge devices to shipping full-stack web apps.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"/> &nbsp;Always open to collaborating on impactful projects or just having a great tech conversation!\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25"/> &nbsp;Drop me an email at [e1668492@u.nus.edu](mailto:e1668492@u.nus.edu) and I'll get back to you as soon as I can.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="25"/> &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1USfnvu0RMBaoi_Ro9ZakAYezlG1Xruuc/) and [Portfolio](https://jovianportofolio.netlify.app) for more details about me. I am always open to feedback and suggestions!
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> Tech Stack
+
+<img alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="340"/>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,r,pytorch,tensorflow,react,tailwind,bootstrap&perline=12" /></a>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,flask,nodejs,express,postgres,firebase,supabase,docker,kubernetes,aws,git,figma&perline=12" /></a>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=12" /></a>
+
+<br clear="right"/>x
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25"/> GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/JovianSanjaya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JovianSanjaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JovianSanjaya">
+    <img src="https://streak-stats.demolab.com?user=JovianSanjaya&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
+</p>
 
 
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25"/> Connect with Me
 
+<p align="center">
+  <a href="https://jovianportofolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/joviansp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:e1668492@u.nus.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/JovianSanjaya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1a1a2e&height=120&section=footer" width="100%"/>
+</div>
