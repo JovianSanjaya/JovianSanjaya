@@ -21,13 +21,32 @@
 
 <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="340"/>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,r,pytorch,tensorflow,react,tailwind,bootstrap&perline=12" /></a>
+**Languages**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,flask,nodejs,express,postgres,firebase,supabase,docker,kubernetes,aws,git,figma&perline=12" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,r&perline=7" /></a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=12" /></a>
+**AI / ML**
 
-<br clear="right"/>x
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=7" /></a>
+
+**Frontend**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,figma&perline=7" /></a>
+
+**Backend & Databases**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres,firebase,supabase&perline=7" /></a>
+
+**DevOps & Cloud**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=7" /></a>
+
+**Hardware**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=7" /></a>
+
+<br clear="right"/>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25"/> GitHub Analytics
 
 <p align="center">
@@ -52,6 +71,7 @@
   <a href="mailto:e1668492@u.nus.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/JovianSanjaya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1a1a2e&height=120&section=footer" width="100%"/>
