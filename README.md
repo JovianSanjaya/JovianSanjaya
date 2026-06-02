@@ -62,18 +62,10 @@
 
 
 <p align="center">
-  <a href="https://jovianportofolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/joviansp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:e1668492@u.nus.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/JovianSanjaya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="https://jovianportofolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/joviansp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:e1668492@u.nus.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/JovianSanjaya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
