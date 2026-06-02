@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/> &nbsp;I love building things end-to-end, from training ML models on edge devices to shipping full-stack web apps.\
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"/> &nbsp;Always open to collaborating on impactful projects or just having a great tech conversation!\
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25"/> &nbsp;Drop me an email at [e1668492@u.nus.edu](mailto:e1668492@u.nus.edu) and I'll get back to you as soon as I can.\
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="25"/> &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1USfnvu0RMBaoi_Ro9ZakAYezlG1Xruuc/) and [Portfolio](https://jovianportofolio.netlify.app) for more details about me. I am always open to feedback and suggestions!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="25"/> &nbsp;Check out my [Portfolio](https://jovianportofolio.netlify.app) for more details about me. I am always open to feedback and suggestions!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> Tech Stack
 
