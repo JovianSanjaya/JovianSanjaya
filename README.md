@@ -55,7 +55,7 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/JovianSanjaya/JovianSanjaya/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JovianSanjaya/JovianSanjaya/output/github-contribution-grid-snake-dark.svg)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25"/> Connect with Me
