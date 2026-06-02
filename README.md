@@ -55,12 +55,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JovianSanjaya">
-    <img src="https://streak-stats.demolab.com?user=JovianSanjaya&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</p>
-
+![Snake animation](https://github.com/JovianSanjaya/JovianSanjaya/blob/output/github-contribution-grid-snake.svg)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25"/> Connect with Me
