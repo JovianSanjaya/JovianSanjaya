@@ -10,7 +10,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="25"/> Hi!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25"/> &nbsp;I am currently a Computer Science and Statistics undergraduate at NUS.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25"/> &nbsp;I am currently a Computer Science undergraduate at NUS.\
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25"/> &nbsp;My intended specializations are Parallel Computing, Aritifial Intelligence, and Database System.\
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/> &nbsp;I love building things end-to-end, from training ML models on edge devices to shipping full-stack web apps.\
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"/> &nbsp;I am always open to collaborating on impactful projects or just having a great tech conversation!\
